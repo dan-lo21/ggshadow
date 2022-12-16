@@ -6,7 +6,9 @@ https://github.com/marcmenem/ggshadow
 Deployed website link:
 https://jhu-statprogramming-fall-2022.github.io/biostat840-project3-pkgdown-dan-lo21
 
-#5 Customized Things
+# 5 Customized Things
+-Changed the bootswatch theme to simplex
+-Changed the theme to arrow-dark 
 
 
 
